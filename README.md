@@ -1,2 +1,0 @@
-# Homeworks
-# fnt_main
